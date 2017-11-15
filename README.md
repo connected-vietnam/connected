@@ -5,7 +5,7 @@
 * Có thể xem đây là trang beta về nội dung của Connected
 * Mục đích là nhằm tổng hợp, truyền tải thông tin 1 cách hiệu quả nhất đến các đối tác, khách hàng cũng như toàn thể nhân viên
 * Chỉ tập trung vào viết, thay vì phải vừa viết vừa suy nghĩ về thiết kế, ... để tận dụng triệt để dòng chạy ý nghĩ (xem thêm tại https://en.wikipedia.org/wiki/Flow_(psychology))
-* Nội dung trong đây sẽ được viết với từ ngữ mộc mạc, xúc tích
+* Nội dung trong đây sẽ được viết với từ ngữ mộc mạc, súc tích
 * Nội dung trong này sẽ được thay đổi, cập nhật thường xuyên. Nếu phần nào đã thực sự stable thì sẽ được đưa lên website chính của Connected
 
 ## Giới thiệu
@@ -63,7 +63,7 @@ Chúng tôi cố gắng làm mọi transparent nhất có thể, tuy nhiên nh�
 * Yêu cầu:
   * Có kiến thức cơ bản về HTML5 & CSS
   * Có hứng thú về design
-  * Biết nhận biết đẹp xấu
+  * Có mắt thẩm mỹ
 * Lợi ích;
   * Được học hỏi, thực tập trực tiếp về các công nghệ front-end mới (react.js, vue.js)
 * Công việc chính:
