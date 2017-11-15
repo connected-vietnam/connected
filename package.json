@@ -1,0 +1,14 @@
+{
+  "name": "connected",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:connected-vietnam/connected.git",
+  "author": "joehua87 <joehua87@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "publish": "gitbook build && node publish.js"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
