@@ -4,6 +4,17 @@
 
 * [Thuật ngữ](services/terms.md)
 
+## Dịch vụ
+
+- [SEO – Search Engine Optimization](/services/seo.md)
+- [Thiết kế website](/services/thiet-ke-website.md)
+- [Thiết kế landing page](/services/thiet-ke-landing-page.md)
+- [Tiếp thị nội dung – Chăm sóc website](/services/tiep-thi-noi-dung-cham-soc-website.md)
+- [Quảng cáo Google](/services/quang-cao-google.md)
+- [Quảng cáo Facebook](/services/quang-cao-facebook.md)
+- [Tối ưu tỷ lệ chuyển đổi – Conversion Optimization](/services/toi-uu-ty-le-chuyen-doi.md)
+- [Giải pháp online marketing tổng thể cho SMEs](/services/giai-phap-online-marketing-tong-the-cho-smes.md)
+
 ## Hướng dẫn
 * [Checklist bàn giao website](guides/checklist-ban-giao-website.md)
 * [Hướng dẫn sử dụng CMS Keystone](guides/huong-dan-su-dung-keystone.md)

@@ -1,6 +1,13 @@
 # Connected Affiliate
 
-Affiliate là hình thức tiếp thị liên kết đã & đang được sử dụng rộng rãi trên thế giới online marketing.
+Affiliate là hình thức tiếp thị liên kết đã & đang được sử dụng rộng rãi trên thế giới online marketing - tuyệt vời để tạo ra thu nhập thụ động.
+
+## Tại sao bạn nên hợp tác cùng Connected
+
++ Dịch vụ được tin dùng
++ Tham gia chương trình miễn phí
++ Chi trả hoa hồng công khai, minh bạch
++ Không giới hạn mức hoa hồng bạn có thể nhận được
 
 ## Chính sách hoa hồng
 
@@ -16,3 +23,8 @@ Affiliate là hình thức tiếp thị liên kết đã & đang được sử d
 - 20% trên tổng giá trị phí quản lý của hợp đồng đầu tiên.
 - 5% trên tổng giá trị phí quản lý của những hợp đồng tiếp theo.
 
+## Thanh toán hoa hồng
+
+Hoa hồng được chi trả vào ngày 20 của mỗi tháng qua tài khoản ngân hàng của affiliate.
+
+Mức tối thiểu chi trả: 1,000,000 VND. Nếu hoa hồng của affiliate trong tháng chưa đạt mức này thì sẽ được cộng dồn và trả vào kỳ thanh toán sau.

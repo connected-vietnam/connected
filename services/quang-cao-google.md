@@ -1,4 +1,22 @@
-# Quảng cáo Google Adwords
+# Quảng cáo Google
+
+Google là bộ máy tìm kiếm chiếm thị phần lớn nhất thế giới. Theo thống kê[* ](internetlivestats.com), Google xử lý 40,000 lượt tìm kiếm mỗi giây, tương đương với 3.5 tỉ lượt một ngày – 1 con số khổng lồ và là mảnh đất màu mỡ để marketing quảng bá thương hiệu.
+
+Nhưng hiện nay, quảng cáo Google đang diễn ra sự cạnh tranh gay gắt. Để chiến dịch quảng cáo thực sự hiệu quả, ngoài sự thấu hiểu thị trường, thấu hiểu Adwords, nhà quảng cáo còn cần một quá trình theo dõi & liên tục điều chỉnh tối ưu.
+
+Có 2 bao nhiêu hình thức quảng cáo Google:
+- Quảng cáo từ khóa Google Search
+- Quảng cáo mạng hiển thị Google Display Network
+
+### 1. Quảng cáo từ khóa Google Adwords
+
+Google Adwords, hay còn được gọi là quảng cáo Google PPC, quảng cáo Google tính tiền theo click.
+
+![Vùng khoanh đỏ là vùng quảng cáo Google Adwords](https://www.zestdigital.com/wp-content/uploads/2011/07/adwords3.jpg)
+
+Đây là dịch vụ quảng cáo cơ bản nhất của Google Adwords. Người dùng sẽ lựa chọn từ khoá họ muốn hiển thị lên trang đầu khi khách hàng tìm kiếm. Để sử dụng được Google Search bạn cần có: danh sách từ khoá, chiến dịch quảng cáo cụ thể, trang đích để khách hàng truy cập.
+
+![](https://www.seomike.com/wp-content/uploads/2015/08/2015-adlogo.png)
 
 Quảng cáo từ khóa PPC là công cụ mạnh mẽ, đem lại kết quả ngay lập tức, chính xác, dễ dàng đo lường, đem lại kết quả ngay lập tức mà không có loại hình quảng cáo nào so sánh được.
 
@@ -13,47 +31,11 @@ Chiến dịch PPC thành công khởi đầu bằng việc thấu hiểu thị 
 - Kiểm tra, theo dõi chiến dịch
 - Xác định phương thức tối ưu hiệu suất kinh doanh ROI
 
-### Vì sao nên bạn nên chọn dịch vụ quảng cáo Adwords tại Connected:
-- Với kinh nghiệm 5 năm trong ngành, chúng tôi hiểu cách thức vận hành Adwords tới mức chi tiết.
-- Chúng tôi giúp bạn tối ưu tối đa chiến dịch – đảm bảo lợi nhuận cao nhất với chi phí thấp nhất.
-- Bạn sẽ được liên tục cập nhật và đề xuất những phương án giúp tối ưu chiến dịch PPC của bạn
-- Chúng tôi đề cao sự minh bạch.
+### 2. Quảng cáo mạng hiển thị Google Display Network 
 
-
-## Cách thức tính phí
-* 30% nếu dưới ngân sách quảng cáo dưới 10 triệu / tháng
-* 25% nếu ngân sách quảng cáo từ 10 đến 30 triệu
-* 20% nếu ngân sách quảng cáo trên 30 triệu
-
-## Thông tin báo cáo với khách hàng
-* Số tiền đã tiêu. Thông qua TeamViewer hoặc xem tài khoản trực tiếp
-
-## Thông tin không báo cáo với khách hàng
-* Nội dung chi tiết của các chiến dịch.
-
-Dịch vụ quảng cáo từ khóa Google Adwords
-
-1. Google Adwords là gì?
-
-Google Adwords là dịch vụ quảng cáo từ khoá, hình ảnh trực tuyến do Google cung cấp cho người dùng nhằm quảng bá sản phẩm, dịch vụ của họ đến khách hàng tiềm năng khi họ tìm kiếm trên Google hoặc có lịch sử tìm kiếm liên quan đến sản phẩm, dịch vụ đó.
-
-
-![Vùng khoanh đỏ là vùng quảng cáo Google Adwords](https://www.zestdigital.com/wp-content/uploads/2011/07/adwords3.jpg)
-
-2. Google Adwords có bao nhiêu hình thức quảng cáo ?
-
-Google Adwords chỉ có 2 hình thức quảng cáo là: Google Search và Google Display Networks
-
-1. Google Search:
-  
-![](https://www.seomike.com/wp-content/uploads/2015/08/2015-adlogo.png)
-
-  Đây là dịch vụ quảng cáo cơ bản nhất của Google Adwords. Người dùng sẽ lựa chọn từ khoá họ muốn hiển thị lên trang đầu khi khách hàng tìm kiếm. Để sử dụng được Google Search bạn cần có: danh sách từ khoá, chiến dịch quảng cáo cụ thể, trang đích để khách hàng truy cập.
-2. Google Display Network:
-  
 ![](http://www.1stclickmarketing.com.au/wp-content/uploads/2016/06/google-display-network.png)
 
-  Đây là dịch vụ quảng cáo hình ảnh của Google Adwords hiển thị trên những website đã đăng ký với Google để hiển thị quảng cáo (Google Adsense) hoặc cái đối tác của Google. Để sử dụng được dịch vụ Google Display Networks bạn cần có: Mục tiêu đối tượng quảng cáo chi tiết, chiến dịch quảng cáo, trang đích để khách hàng truy cập.
+Đây là dịch vụ quảng cáo hình ảnh của Google Adwords hiển thị trên những website đã đăng ký với Google để hiển thị quảng cáo (Google Adsense) hoặc cái đối tác của Google. Để sử dụng được dịch vụ Google Display Networks bạn cần có: Mục tiêu đối tượng quảng cáo chi tiết, chiến dịch quảng cáo, trang đích để khách hàng truy cập.
 
 ## Google Adwords sử dụng như thế nào ?
 
@@ -68,32 +50,15 @@ Thông thường tại Việt Nam nếu có nhu cầu tự chạy quảng cáo g
 
 Có rất nhiều người nghĩ rằng muốn sử dụng Google Adwords cần sở hữu một website nhưng trên thực tế việc sử dụng google adwords chỉ cần một trang đích không vi phạm chính sách của google thì có thể sử dụng google adwords được. Trang đích này có thể là một Fanpage Facebook, 1 trang blog, 1 mẫu tin trên diễn đàn v.v…
 
-Google Adwords phù hợp đối tượng nào?
+## Google Adwords phù hợp đối tượng nào?
 
 Bất cứ đối tượng nào có nhu cầu quảng bá sản phẩm, dịch vụ hay cung cấp thông tin hữu ích đều có thể sử dụng dịch vụ quảng cáo google adwords. Tại Việt Nam dịch vụ quảng cáo Google Adwords rất phổ biến ở các ngành bán lẻ sản phẩm, hoặc tiếp thị dịch vụ đến người có nhu cầu. 
 
-Google Adwords tính phí ra sao?
+## Google Adwords tính phí ra sao?
 
 Google Adwords được tính phí theo pay per click (PPC), bạn chỉ trả phí cho Google khi khách hàng của bạn click vào quảng cáo của bạn. Đây là các tính phí cơ bản nhất khi bạn sử dụng Google Adwords. Ngoài ra còn có một hình thức tính phí khác là “cost per 1000 impressions” (CPM) giá trên 1000 lần hiển thị quảng cáo, đây là hình thức tính phí khi bạn sử dụng dịch vụ Google Display Networks.
 
-Tại sao bạn nên chọn dịch vụ Google Adwords tại Connected
-1. Chỉ trả phí cho những gì bạn sử dụng.
-
-Google Adwords được tính phí theo hình thức Pay Per Click (PPC chỉ thanh toán khi khách hàng nhập chuột vào quảng cáo của bạn) và Connected cũng như vậy. Connected sẽ tính phí quản lý - setup - tối ưu chiến dịch dựa mức ngân sách quảng cáo của bạn.
-
-2. Phân tích từ khoá miễn phí
-
-Việc chuẩn bị trước từ khoá rất quan trọng. Bạn chỉ cần cung cấp Website của bạn và nhóm từ khoá của bạn Connected sẽ giúp bạn phân tích hoàn toàn miễn phí.
-
-3. Tối ưu tài khoản giảm chi phí
-
-Tối ưu chiến dịch quảng cáo là việc vô cùng quan trọng để giảm chi phí không hợp lý và tăng tính hiệu quả của chiến dịch quảng cáo. Connected sẽ giúp bạn đọc - phân tích báo cáo và đưa ra quyết định quảng cáo chính xác và hiệu quả nhất.
-
-4. Hỗ trợ 24/7
-
-Quảng cáo Google Adwords hoạt động suốt 24/7. Connected luôn sẵn sàng hỗ trợ bạn để hoạt động kinh doanh của bạn đạt mực ổn định cao nhất.
-
-Quy trình quảng cáo Google Adwords tại Connected
+## Quy trình quảng cáo Google Adwords tại Connected
 
 Khởi tạo và chạy một chiến dịch Google Adwords khá dễ dàng – bất cứ cá nhân nào cũng có thể làm được. Tuy nhiên, việc tối ưu chiến dịch để tạo ra lợi nhuận nhiều nhất trên chi phí lại là một câu chuyện khác.
 
@@ -101,8 +66,7 @@ Theo thống kê không chính thức, 50% chi phí bỏ ra cho Google Adwords c
 
 Đừng lo, Connected luôn sẵn sàng hỗ trợ bạn. Chọn quảng cáo Adwords tại Connected, bạn yên tâm rằng chiến dịch của bạn được tối ưu, và hiệu suất lợi nhuận sinh ra trên chi phí là cao nhất.
 
-Quy trình quảng cáo Adwords tại Connected cụ thể như sau:
-
+## Quy trình quảng cáo Adwords tại Connected cụ thể như sau:
 
 1. Nhận yêu cầu từ Bạn
 
@@ -118,19 +82,66 @@ Hiệu quả của một chiến dịch quảng cáo phụ thuộc và mục ti�
 
 4. Thực thi chiến dịch quảng cáo
 
-Mọi yêu cầu bạn sẽ được thực thi 100% sau khi phân tích. Bạn sẽ được toàn quyền xem xét tài khoản bất kỳ lúc nào.
+Mọi yêu cầu bạn sẽ được thực thi 100% sau khi phân tích. Bạn sẽ được toàn quyền xem xét tài khoản bất kỳ lúc nào. 
+
+- Phân tích từ khóa: Phân tích và chia nhóm từ khóa thích hợp.
+- Soạn mẫu quảng cáo: Mẫu quảng cáo từng nhóm riêng biệt
+- Cài đặt chiến dịch
+- Cài đặt tính năng mở rộng: Click gọi, link mở rộng, chú thích, chú thích ngành
+- Tạo mã remarketing chèn vào google tag manager, có thể sử dụng Google Analytics để chạy (chu kỳ 45 -60 ngày)
 
 5. Theo dõi chiến dịch quảng cáo
 
-Bạn là khách hàng của Connected chắc chắn ràng bạn phải biết được bạn đang chi tiền quảng cáo cho cái gì và nó hoạt động ra sao. Connected minh bạch toàn bộ thông tin với bạn.
+- Chạy Demo 2 ngày tối ưu lại chiến dịch (tăng điểm chất lượng từ khóa: Nhấp chuột mong đợi, Mẫu quảng cáo, trang đích)
+- Báo cáo sau tuần đầu. Tối ưu lại và lọc danh sách từ khóa có giá trị.
 
 6. Báo cáo chiến dịch quảng cáo
 
 Báo cáo luôn là khâu cực kỳ quan trọng để đánh giá lại công việc bạn đã thực hiện và đưa ra quyết định tiếp theo. Connected sẽ hỗ trợ bạn báo cáo kịp thời và xử lý tình huống bất cứ lúc nào.
 
-Quảng cáo Google Adwords tại Connected tính phí như thế nào ?
+### Vì sao nên bạn nên chọn dịch vụ quảng cáo Adwords tại Connected:
+
+Với kinh nghiệm 5 năm trong ngành, chúng tôi hiểu cách thức vận hành Adwords tới mức chi tiết để giúp bạn tối ưu tối đa chiến dịch – đảm bảo lợi nhuận cao nhất với chi phí thấp nhất, thông qua:
+- Chọn đúng từ khóa
+- Tối ưu trang đích
+- Viết quảng cáo hấp dẫn
+
+Chiến dịch quảng cáo của bạn sẽ được liên tục cập nhật và đề xuất những phương án giúp tối ưu chiến dịch PPC của bạn.
+
+1. Chỉ trả phí cho những gì bạn sử dụng.
+
+Google Adwords được tính phí theo hình thức Pay Per Click (PPC chỉ thanh toán khi khách hàng nhập chuột vào quảng cáo của bạn) và Connected cũng như vậy. Connected sẽ tính phí quản lý - setup - tối ưu chiến dịch dựa mức ngân sách quảng cáo của bạn.
+
+2. Phân tích từ khoá miễn phí
+
+Việc chuẩn bị trước từ khoá rất quan trọng. Bạn chỉ cần cung cấp Website của bạn và nhóm từ khoá của bạn Connected sẽ giúp bạn phân tích hoàn toàn miễn phí.
+
+3. Tối ưu tài khoản giảm chi phí
+
+Tối ưu chiến dịch quảng cáo là việc vô cùng quan trọng để giảm chi phí không hợp lý và tăng tính hiệu quả của chiến dịch quảng cáo. Connected sẽ giúp bạn đọc - phân tích báo cáo và đưa ra quyết định quảng cáo chính xác và hiệu quả nhất.
+
+4. Hỗ trợ 24/6
+
+Connected luôn sẵn sàng hỗ trợ bạn để hoạt động kinh doanh của bạn đạt mực ổn định cao nhất.
+
+5. Chúng tôi đề cao sự minh bạch.
+
+Báo cáo trích xuất trực tiếp từ Google, Connected không can thiệp.
+
+## Cách thức tính phí
 
 Tại Connected, chúng tôi mong muốn xây dựng môi trường kinh doanh minh bạch. Vì vậy, khác với các dịch vụ thu phí trên giá click, Connected chỉ thu phí quản lý trên tài khoản. Bạn được toàn quyền truy cập và truy xuất dữ liệu trên tài khoản quảng cáo của bạn.
+
+* 30% nếu dưới ngân sách quảng cáo dưới 10 triệu/tháng
+* 25% nếu ngân sách quảng cáo từ 10 đến 30 triệu
+* 20% nếu ngân sách quảng cáo trên 30 triệu
+
+## Thông tin báo cáo với khách hàng
+* Số tiền đã tiêu. Thông qua TeamViewer hoặc xem tài khoản trực tiếp
+
+## Thông tin không báo cáo với khách hàng
+* Nội dung chi tiết của các chiến dịch.
+
 
 Bảng giá chạy quảng cáo Google Ads 
 | Gói                                                           | Basic                 | Advanced                  | Premium                                     |
@@ -163,18 +174,6 @@ Thực thu 1.250.000đ/15 ngày
 Thực chạy 750.000đ/15 ngày
 Gói Ad: Trọn gói nếu ngành không cạnh tranh và 20% nếu ngành cạnh tranh cao.
 
-Quy trình chạy Google Adwords
-1. Phân tích từ khóa: Phân tích và chia nhóm từ khóa thích hợp
-2. Soạn mẫu quảng cáo: Mẫu quảng cáo từng nhóm riêng biệt
-3. Cài đặt chiến dịch: Dựa trên bước 1+2
-4. Cài đặt tính năng mở rộng: Click gọi, link mở rộng, chú thích, chú thích ngành.
-5. Tạo mã remarketing chèn vào google tag manager, có thể sử dụng Google Analytics để chạy (chu kỳ 45 -60 ngày)
-6. Chạy Demo 2 ngày tối ưu lại chiến dịch (tăng điểm chất lượng từ khóa: Nhấp chuột mong đợi, Mẫu QC, trang đích)
-7. Theo dõi - Báo cáo sau tuần đầu. Tối ưu lại như bước 6 và lọc danh sách từ khóa có giá trị tập trung cho giai đoạn SEO
-8. Cài đặt chiến dịch Remarketing sau khi đủ 1000 lượt truy cập hoặc tiến hành song song trong giai đoạn SEO (Loại banner: Text/HTML5/Image)
-9. Theo dõi chiến dịch Search và Remarketing.
-10. Cài đặt chiến dịch Google Display Networks (GDN) tập trung những Website đã hiển thị Remarketing có lượng click tốt.
-11. Xuất báo cáo từ khóa phục vụ SEO, và duy trì chạy GDN tạo thương hiệu
 
 Lưu ý:
 
@@ -182,10 +181,7 @@ Lưu ý:
 - Tích hợp Google Tag Manager (GTM) để chèn code phụ thuộc Website.
 - Có thể tích hợp thêm Pixel Facebook vào GTM để chạy chiến dịch quảng cáo facebook với những người đã truy cập trang Website.
 
-
 ![](https://www.dropbox.com/s/bktawvj1lqeudxk/Screenshot%202017-11-05%2021.06.43.png?raw=1)
-
-
 
 ![](https://www.dropbox.com/s/kjykvh35ieh8kk7/Screenshot%202017-11-05%2021.06.55.png?raw=1)
 

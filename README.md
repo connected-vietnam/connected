@@ -13,7 +13,10 @@
 ### Chúng tôi là ai
 
 ### Tầm nhìn
+
 Thời đại hiện tại là thời đại mua hàng trên Internet. Các cá nhân, doanh nghiệp nhỏ đều có nhu cầu bán hàng trực tuyến. Vì vậy, chúng tôi mong muốn giúp cho các cá nhân, doanh nghiệp nhỏ kinh doanh online hiệu quả, tiết kiệm chi phí bằng cách cung cấp các dịch vụ liên quan đến Digital Marketing (Xem thêm phần dịch vụ)
+
+**Định vị:** cung cấp giải pháp online marketing tổng thể cho doanh nghiệp vừa & nhỏ (SMEs) hướng đến hiệu quả thực sự.
 
 ### Chúng tôi làm gì
 
