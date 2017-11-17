@@ -8,7 +8,9 @@ Transparancy
 
 Hướng tới hiệu quả thực
 
-Dữ liệu chỉ là dữ liệu 
+Dữ liệu chỉ là những con số & ký tự
 
 Cho đến khi someone makes it meaningful
+
+Giải pháp online marketing lấy hiệu quả thực làm thước đo thành công
 
