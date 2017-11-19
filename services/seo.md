@@ -62,7 +62,7 @@ Hơn thế nữa, việc thường xuyên xuất bản nội dung có giá trị
 
 Connected cung cấp dịch vụ SEO tổng thể giúp website của bạn lên top & trụ hạng dài lâu, song song với việc phát triển thương hiệu & thu hút khách hàng mới tự nhiên.
 
-### 3 bước tiến hành SEO tổng thể
+### 4 bước tiến hành SEO tổng thể
 
 SEO tổng thể, trái với SEO từ khóa chỉ nhắm tới những từ khóa nhất định, nhắm tới việc SEO nhóm từ khóa bao gồm từ khóa ngắn, trung bình, và dài; song song với việc tối ưu cấu trúc site, các thẻ meta, các thông số chất lượng để giúp website được Google bot quét nội dung dễ hơn, index dễ hơn, và xếp hạng cao hơn dễ hơn.
 

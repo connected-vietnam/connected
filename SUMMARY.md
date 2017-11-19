@@ -13,7 +13,8 @@
 - [Quảng cáo Google](/services/quang-cao-google.md)
 - [Quảng cáo Facebook](/services/quang-cao-facebook.md)
 - [Tối ưu tỷ lệ chuyển đổi – Conversion Optimization](/services/toi-uu-ty-le-chuyen-doi.md)
-- [Giải pháp online marketing tổng thể cho SMEs](/services/giai-phap-online-marketing-tong-the-cho-smes.md)
+- [Giải pháp tổng thể cho SMEs](/services/giai-phap-tong-the-cho-smes.md)
+- [Giải pháp cho ngành bất động sản](/services/giai-phap-bat-dong-san.md)
 
 ## Hướng dẫn
 * [Checklist bàn giao website](guides/checklist-ban-giao-website.md)
