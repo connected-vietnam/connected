@@ -37,6 +37,8 @@ Chiến dịch PPC thành công khởi đầu bằng việc thấu hiểu thị 
 
 Đây là dịch vụ quảng cáo hình ảnh của Google Adwords hiển thị trên những website đã đăng ký với Google để hiển thị quảng cáo (Google Adsense) hoặc cái đối tác của Google. Để sử dụng được dịch vụ Google Display Networks bạn cần có: Mục tiêu đối tượng quảng cáo chi tiết, chiến dịch quảng cáo, trang đích để khách hàng truy cập.
 
+**Yêu cầu:** để thỏa mãn điều kiện chạy quảng cáo Google Display Network, website phải có ít nhất 100 views trong vòng 30 ngày.
+
 #### Google Adwords sử dụng như thế nào ?
 
 Google Adwords được Google thiết lập cho bất cứ cá nhân nào cũng có thể sử dụng dịch vụ của họ. Để sử dụng được Google Adwords bạn cần có:
